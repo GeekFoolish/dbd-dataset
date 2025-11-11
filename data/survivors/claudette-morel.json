@@ -1,0 +1,11 @@
+{
+  "id": "survivor-claudette-morel",
+  "slug_current": "claudette-morel",
+  "name": "Claudette Morel",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "self-care",
+    "botany-knowledge",
+    "empathy"
+  ]
+}

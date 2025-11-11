@@ -1,0 +1,11 @@
+{
+  "id": "survivor-aestri-yazar",
+  "slug_current": "aestri-yazar",
+  "name": "Aestri Yazar",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "mirrored-illusion",
+    "bardic-inspiration",
+    "still-sight"
+  ]
+}

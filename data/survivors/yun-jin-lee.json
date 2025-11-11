@@ -1,0 +1,11 @@
+{
+  "id": "survivor-yun-jin-lee",
+  "slug_current": "yun-jin-lee",
+  "name": "",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "fast-track",
+    "smash-hit",
+    "self-preservation"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "survivor-taurie-cain",
+  "slug_current": "taurie-cain",
+  "name": "Taurie Cain",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "invocation-treacherous-crows",
+    "clean-break",
+    "shoulder-the-burden"
+  ]
+}

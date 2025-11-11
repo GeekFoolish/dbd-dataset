@@ -1,0 +1,11 @@
+{
+  "id": "survivor-laurie-strode",
+  "slug_current": "laurie-strode",
+  "name": "Laurie Strode",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "decisive-strike",
+    "object-of-obsession",
+    "sole-survivor"
+  ]
+}

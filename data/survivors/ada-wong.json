@@ -1,0 +1,11 @@
+{
+  "id": "survivor-ada-wong",
+  "slug_current": "ada-wong",
+  "name": "Ada Wong",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "low-profile",
+    "reactive-healing",
+    "wiretap"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "survivor-nea-karlsson",
+  "slug_current": "nea-karlsson",
+  "name": "Nea Karlsson",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "balanced-landing",
+    "streetwise",
+    "urban-evasion"
+  ]
+}

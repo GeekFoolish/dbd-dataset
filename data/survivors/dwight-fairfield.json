@@ -1,0 +1,11 @@
+{
+  "id": "survivor-dwight-fairfield",
+  "slug_current": "dwight-fairfield",
+  "name": "Dwight Fairfield",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "bond",
+    "leader",
+    "prove-thyself"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "survivor-haddie-kaur",
+  "slug_current": "haddie-kaur",
+  "name": "Haddie Kaur",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "inner-focus",
+    "residual-manifest",
+    "overzealous"
+  ]
+}

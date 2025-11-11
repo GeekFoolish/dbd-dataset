@@ -1,0 +1,11 @@
+{
+  "id": "survivor-gabriel-soma",
+  "slug_current": "gabriel-soma",
+  "name": "Gabriel Soma",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "troubleshooter",
+    "made-for-this",
+    "scavenger"
+  ]
+}

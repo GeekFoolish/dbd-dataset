@@ -1,0 +1,11 @@
+{
+  "id": "survivor-rick-grimes",
+  "slug_current": "rick-grimes",
+  "name": "Rick Grimes",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "apocalyptic-ingenuity",
+    "come-and-get-me",
+    "teamwork-toughen-up"
+  ]
+}

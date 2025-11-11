@@ -1,0 +1,11 @@
+{
+  "id": "survivor-nancy-wheeler",
+  "slug_current": "nancy-wheeler",
+  "name": "Nancy Wheeler",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "better-together",
+    "fixated",
+    "inner-strength"
+  ]
+}

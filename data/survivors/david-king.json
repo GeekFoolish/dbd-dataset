@@ -1,0 +1,11 @@
+{
+  "id": "survivor-david-king",
+  "slug_current": "david-king",
+  "name": "David King",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "dead-hard",
+    "no-mither",
+    "were-gonna-live-forever"
+  ]
+}

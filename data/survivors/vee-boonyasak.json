@@ -1,0 +1,11 @@
+{
+  "id": "survivor-vee-boonyasak",
+  "slug_current": "vee-boonyasak",
+  "name": "Vee Boonyasak",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "ghost-notes",
+    "one-two-three-four",
+    "road-life"
+  ]
+}

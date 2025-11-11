@@ -1,0 +1,11 @@
+{
+  "id": "survivor-kate-denson",
+  "slug_current": "kate-denson",
+  "name": "Kate Denson",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "dance-with-me",
+    "windows-of-opportunity",
+    "boil-over"
+  ]
+}

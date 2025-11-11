@@ -1,0 +1,11 @@
+{
+  "id": "survivor-bill-overbeck",
+  "slug_current": "bill-overbeck",
+  "name": "Bill Overbeck",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "borrowed-time",
+    "left-behind",
+    "unbreakable"
+  ]
+}

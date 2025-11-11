@@ -1,0 +1,11 @@
+{
+  "id": "survivor-elodie-rakoto",
+  "slug_current": "elodie-rakoto",
+  "name": "Elodie Rakoto",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "appraisal",
+    "deception",
+    "power-struggle"
+  ]
+}

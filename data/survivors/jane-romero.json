@@ -1,0 +1,11 @@
+{
+  "id": "survivor-jane-romero",
+  "slug_current": "jane-romero",
+  "name": "Jane Romero",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "solidarity",
+    "poised",
+    "head-on"
+  ]
+}

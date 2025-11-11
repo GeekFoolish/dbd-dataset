@@ -1,0 +1,11 @@
+{
+  "id": "survivor-thalita-lyra",
+  "slug_current": "thalita-lyra",
+  "name": "Thalita Lyra",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "cut-loose",
+    "friendly-competition",
+    "teamwork-power-of-two"
+  ]
+}

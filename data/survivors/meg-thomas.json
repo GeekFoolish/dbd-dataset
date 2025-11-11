@@ -1,0 +1,11 @@
+{
+  "id": "survivor-meg-thomas",
+  "slug_current": "meg-thomas",
+  "name": "Meg Thomas",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "adrenaline",
+    "quick-and-quiet",
+    "sprint-burst"
+  ]
+}

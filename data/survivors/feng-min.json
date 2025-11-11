@@ -1,0 +1,11 @@
+{
+  "id": "survivor-feng-min",
+  "slug_current": "feng-min",
+  "name": "Feng Min",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "lithe",
+    "alert",
+    "technician"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "survivor-vittorio-toscano",
+  "slug_current": "vittorio-toscano",
+  "name": "Vittorio Toscano",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "potential-energy",
+    "fogwise",
+    "quick-gambit"
+  ]
+}

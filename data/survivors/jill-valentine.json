@@ -1,0 +1,11 @@
+{
+  "id": "survivor-jill-valentine",
+  "slug_current": "jill-valentine",
+  "name": "Jill Valentine",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "counterforce",
+    "resurgence",
+    "blast-mine"
+  ]
+}

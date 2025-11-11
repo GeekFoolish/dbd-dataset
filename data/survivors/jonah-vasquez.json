@@ -1,0 +1,11 @@
+{
+  "id": "survivor-jonah-vasquez",
+  "slug_current": "jonah-vasquez",
+  "name": "Jonah Vasquez",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "overcome",
+    "corrective-action",
+    "boon-exponential"
+  ]
+}

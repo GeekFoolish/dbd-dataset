@@ -1,0 +1,11 @@
+{
+  "id": "survivor-mikaela-reid",
+  "slug_current": "mikaela-reid",
+  "name": "Mikaela Reid",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "clairvoyance",
+    "boon-circle-of-healing",
+    "boon-shadow-step"
+  ]
+}

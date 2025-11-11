@@ -1,0 +1,11 @@
+{
+  "id": "survivor-nicolas-cage",
+  "slug_current": "nicolas-cage",
+  "name": "Nicolas Cage",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "dramaturgy",
+    "scene-partner",
+    "plot-twist"
+  ]
+}

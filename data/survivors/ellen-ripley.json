@@ -1,0 +1,11 @@
+{
+  "id": "survivor-ellen-ripley",
+  "slug_current": "ellen-ripley",
+  "name": "Ellen Ripley",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "lucky-star",
+    "chemical-trap",
+    "light-footed"
+  ]
+}

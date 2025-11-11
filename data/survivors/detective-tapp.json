@@ -1,0 +1,11 @@
+{
+  "id": "survivor-detective-tapp",
+  "slug_current": "detective-tapp",
+  "name": "Detective Tapp",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "tenacity",
+    "detectives hunch",
+    "stake-out"
+  ]
+}

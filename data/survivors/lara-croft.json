@@ -1,0 +1,11 @@
+{
+  "id": "survivor-lara-croft",
+  "slug_current": "lara-croft",
+  "name": "Lara Croft",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "finesse",
+    "specialist",
+    "hardened"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "survivor-ace-visconti",
+  "slug_current": "ace-visconti",
+  "name": "Ace Visconti",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "ace-in-the-hole",
+    "open-handed",
+    "up-the-ante"
+  ]
+}

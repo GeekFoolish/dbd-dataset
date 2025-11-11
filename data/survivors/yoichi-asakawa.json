@@ -1,0 +1,11 @@
+{
+  "id": "survivor-yoichi-asakawa",
+  "slug_current": "yoichi-asakawa",
+  "name": "Yoichi Asakawa",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "parental-guidance",
+    "empathic-connection",
+    "boon-dark-theory"
+  ]
+}

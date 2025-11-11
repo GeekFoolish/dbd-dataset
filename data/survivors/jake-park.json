@@ -1,0 +1,11 @@
+{
+  "id": "survivor-jake-park",
+  "slug_current": "jake-park",
+  "name": "Jake Park",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "calm-spirit",
+    "iron-will",
+    "saboteur"
+  ]
+}

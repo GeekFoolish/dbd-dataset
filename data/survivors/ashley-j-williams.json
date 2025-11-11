@@ -1,0 +1,11 @@
+{
+  "id": "survivor-ashley-j-williams",
+  "slug_current": "ashley-j-williams",
+  "name": "Ashley J. Williams",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "flip-flop",
+    "buckle-up",
+    "mettle-of-man"
+  ]
+}

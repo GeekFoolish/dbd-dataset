@@ -1,0 +1,11 @@
+{
+  "id": "survivor-quentin-smith",
+  "slug_current": "quentin-smith",
+  "name": "Quentin Smith",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "wake-up",
+    "pharmacy",
+    "vigil"
+  ]
+}

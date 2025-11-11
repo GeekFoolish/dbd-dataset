@@ -1,0 +1,11 @@
+{
+  "id": "survivor-michonne-grimes",
+  "slug_current": "michonne-grimes",
+  "name": "Michonne Grimes",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "conviction",
+    "last-stand",
+    "teamwork-throw-down"
+  ]
+}

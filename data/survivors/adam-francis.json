@@ -1,0 +1,11 @@
+{
+  "id": "survivor-adam-francis",
+  "slug_current": "adam-francis",
+  "name": "Adam Francis",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "autodidact",
+    "deliverance",
+    "diversion"
+  ]
+}

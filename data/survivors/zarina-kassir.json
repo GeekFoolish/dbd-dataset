@@ -1,0 +1,11 @@
+{
+  "id": "survivor-zarina-kassir",
+  "slug_current": "zarina-kassir",
+  "name": "Zarina Kassir",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "off-the-record",
+    "red-herring",
+    "for-the-people
+  ]
+}

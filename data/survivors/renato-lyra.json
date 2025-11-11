@@ -1,0 +1,11 @@
+{
+  "id": "survivor-renato-lyra",
+  "slug_current": "renato-lyra",
+  "name": "Renato Lyra",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "background-player",
+    "blood-rush",
+    "teamwork-collective-stealth"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "survivor-trevor-belmont",
+  "slug_current": "trevor-belmont",
+  "name": "Trevor Belmont",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "eyes-of-belmont",
+    "exultation",
+    "moment-of-glory"
+  ]
+}

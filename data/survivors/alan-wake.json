@@ -1,0 +1,11 @@
+{
+  "id": "survivor-alan-wake",
+  "slug_current": "alan-wake",
+  "name": "Alan Wake",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "champion-of-light",
+    "boon-illumination",
+    "deadline"
+  ]
+}

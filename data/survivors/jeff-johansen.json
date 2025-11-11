@@ -1,0 +1,11 @@
+{
+  "id": "survivor-jeff-johansen",
+  "slug_current": "jeff-johansen",
+  "name": "Jeff Johansen",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "breakdown",
+    "aftercare",
+    "distortion"
+  ]
+}

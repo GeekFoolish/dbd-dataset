@@ -1,0 +1,11 @@
+{
+  "id": "survivor-leon-s-kennedy",
+  "slug_current": "leon-s-kennedy",
+  "name": "",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "bite-the-bullet",
+    "flashbang",
+    "rookie-spirit"
+  ]
+}

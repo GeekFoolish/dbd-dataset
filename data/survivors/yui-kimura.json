@@ -1,0 +1,11 @@
+{
+  "id": "survivor-yui-kimura",
+  "slug_current": "yui-kimura",
+  "name": "Yui Kimura",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "lucky-break",
+    "any-means-necessary",
+    "breakout"
+  ]
+}

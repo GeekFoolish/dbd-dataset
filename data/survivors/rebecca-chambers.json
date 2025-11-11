@@ -1,0 +1,11 @@
+{
+  "id": "survivor-rebecca-chambers",
+  "slug_current": "rebecca-chambers",
+  "name": "Rebecca Chambers",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "better-than-new",
+    "reassurance",
+    "hyperfocus"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "survivor-steve-harrington",
+  "slug_current": "steve-harrington",
+  "name": "Steve Harrington",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "babysitter",
+    "camaraderie",
+    "second-wind"
+  ]
+}

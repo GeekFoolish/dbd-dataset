@@ -1,0 +1,11 @@
+{
+  "id": "survivor-cheryl-mason",
+  "slug_current": "cheryl-mason",
+  "name": "Cheryl Mason",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "soul-guard",
+    "blood-pact",
+    "repressed-alliance"
+  ]
+}

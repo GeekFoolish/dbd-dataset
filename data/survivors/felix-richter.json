@@ -1,0 +1,11 @@
+{
+  "id": "survivor-felix-richter",
+  "slug_current": "felix-richter",
+  "name": "Felix Richter",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "visionary",
+    "desperate-measures",
+    "built-to-last"
+  ]
+}

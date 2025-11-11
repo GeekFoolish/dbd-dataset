@@ -1,0 +1,11 @@
+{
+  "id": "survivor-sable-ward",
+  "slug_current": "sable-ward",
+  "name": "Sable Ward",
+  "role": "survivor",
+  "unique_perk_ids": [
+    "invocation-wraving-spiders",
+    "strength-in-shadows",
+    "wicked"
+  ]
+}
