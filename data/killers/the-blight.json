@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-blight",
+  "slug_current": "the-blight",
+  "name": "The Blight",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-dragons-grip",
+    "perk-hex-undying",
+    "perk-hex-blood-favor"
   ]
 }

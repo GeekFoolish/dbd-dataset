@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-dredge",
+  "slug_current": "the-dredge",
+  "name": "The Dredge",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-dissolution",
+    "perk-darkness-revealed",
+    "perk-septic-touch"
   ]
 }

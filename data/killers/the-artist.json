@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
+  "id": "killer-the-artist",
+  "slug_current": "the-artist",
   "name": "",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-grim-embrace",
+    "perk-scourge-hook-pain-resonance",
+    "perk-hex-pentimento"
   ]
 }

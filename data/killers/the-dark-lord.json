@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-dark-lord",
+  "slug_current": "the-dark-lord",
+  "name": "The Dark Lord",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-hex-wretched-fate",
+    "perk-human-greed",
+    "perk-dominance"
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-hag",
+  "slug_current": "the-hag",
+  "name": "The Hag",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-hex-the-third-seal",
+    "perk-hex-ruin",
+    "perk-hex-devour-hope"
   ]
 }

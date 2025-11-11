@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-animatronic",
+  "slug_current": "the-animatronic",
+  "name": "The Animatronic",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-help-wanted",
+    "perk-phantom-fear",
+    "perk-haywire"
   ]
 }

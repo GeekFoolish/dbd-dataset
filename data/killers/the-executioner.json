@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-executioner",
+  "slug_current": "the-executioner",
+  "name": "The Executioner",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-deathbound",
+    "perk-forced-penance",
+    "perk-trail-of-torment"
   ]
 }

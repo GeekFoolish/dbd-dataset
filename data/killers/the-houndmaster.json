@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-houndmaster",
+  "slug_current": "the-houndmaster",
+  "name": "The Houndmaster",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-all-shaking-thunder",
+    "perk-scourge-hook-jagged-compass",
+    "perk-no-quarter"
   ]
 }

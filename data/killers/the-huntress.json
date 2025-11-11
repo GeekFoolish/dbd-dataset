@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-huntress",
+  "slug_current": "the-huntress",
+  "name": "The Huntress",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-hex-huntress-lullaby",
+    "perk-territorial-imperative",
+    "perk-beast-of-prey"
   ]
 }

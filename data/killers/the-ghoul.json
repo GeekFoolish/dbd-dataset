@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-ghoul",
+  "slug_current": "the-ghoul",
+  "name": "The Ghoul",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-hex-nothing-but-misery",
+    "perk-forever-entwined",
+    "perk-none-are-free"
   ]
 }

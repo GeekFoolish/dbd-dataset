@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-clown",
+  "slug_current": "the-clown",
+  "name": "The Clown",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-coulrophobia",
+    "perk-bamboozle",
+    "perk-pop-go-the-weasel"
   ]
 }

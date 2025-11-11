@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-good-guy",
+  "slug_current": "the-good-guy",
+  "name": "The Good Guy",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-hex-two-can-play",
+    "perk-friends-til-the-end",
+    "perk-batteries-included"
   ]
 }

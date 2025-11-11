@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-demogorgon",
+  "slug_current": "the-demogorgon",
+  "name": "The Demogorgon",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-surge",
+    "perk-cruel-limits",
+    "perk-mindbreaker"
   ]
 }

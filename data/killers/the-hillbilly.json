@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-hillbilly",
+  "slug_current": "the-hillbilly",
+  "name": "The Hillbilly",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-enduring",
+    "perk-lightborn",
+    "perk-tinkerer"
   ]
 }

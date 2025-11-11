@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
+  "id": "killer-the-cenobite",
+  "slug_current": "the-cenobite",
   "name": "",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-deadlock",
+    "perk-hex-plaything",
+    "perk-scourge-hook-gift-of-pain"
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-cannibal",
+  "slug_current": "the-cannibal",
+  "name": "The Cannibal",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-barbecue-and-chili",
+    "perk-knock-out",
+    "perk-franklins-demise"
   ]
 }

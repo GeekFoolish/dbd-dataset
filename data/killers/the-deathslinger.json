@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
+  "id": "killer-the-deathslinger",
+  "slug_current": "the-deathslinger",
   "name": "",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-gear-head",
+    "perk-dead-mans-switch",
+    "perk-hex-restribution"
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
+  "id": "killer-the-ghost-face",
+  "slug_current": "the-ghost-face",
   "name": "",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-im-all-ears",
+    "perk-thrilling-tremors",
+    "perk-furtive-chase"
   ]
 }

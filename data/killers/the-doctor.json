@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-doctor",
+  "slug_current": "the-doctor",
+  "name": "The Doctor",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-overcharge",
+    "perk-monitor-and-abuse",
+    "perk-overwhelming-presence"
   ]
 }
