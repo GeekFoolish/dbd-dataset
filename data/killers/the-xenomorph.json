@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-xenomorph",
+  "slug_current": "the-xenomorph",
+  "name": "The Xenomorph",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-ultimate-weapon",
+    "perk-rapid-brutality",
+    "perk-alien-instinct"
   ]
 }

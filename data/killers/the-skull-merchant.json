@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-skull-merchant",
+  "slug_current": "the-skull-merchant",
+  "name": "The Skull Merchant",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-game-afoot",
+    "perk-thwack",
+    "perk-leverage"
   ]
 }

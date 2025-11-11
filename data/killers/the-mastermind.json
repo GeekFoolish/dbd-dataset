@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-mastermind",
+  "slug_current": "the-mastermind",
+  "name": "The Mastermind",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-superior-anatomy",
+    "perk-awakened-awareness",
+    "perk-terminus"
   ]
 }

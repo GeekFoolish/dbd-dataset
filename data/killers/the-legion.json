@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-legion",
+  "slug_current": "the-legion",
+  "name": "The Legion",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-discordance",
+    "perk-mad-grit",
+    "perk-iron-maiden"
   ]
 }

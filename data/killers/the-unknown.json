@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-unknown",
+  "slug_current": "the-unknown",
+  "name": "The Unknown",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-unbound",
+    "perk-unforeseen",
+    "perk-undone"
   ]
 }

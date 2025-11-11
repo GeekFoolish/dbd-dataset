@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-nemesis",
+  "slug_current": "the-nemesis",
+  "name": "The Nemesis",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-lethal-pursuer",
+    "perk-hysteria",
+    "perk-eruption"
   ]
 }

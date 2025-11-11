@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-shape",
+  "slug_current": "the-shape",
+  "name": "The Shape",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-save-the-best-for-last",
+    "perk-play-with-your-food",
+    "perk-dying-light"
   ]
 }

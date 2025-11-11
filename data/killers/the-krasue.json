@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-krasue",
+  "slug_current": "the-krasue",
+  "name": "The Krasue",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-ravenous",
+    "perk-wandering-eye",
+    "perk-hex-overture-of-doom"
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-nurse",
+  "slug_current": "the-nurse",
+  "name": "The Nurse",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-stridor",
+    "perk-thanatophobia",
+    "perk-a-nurses-calling"
   ]
 }

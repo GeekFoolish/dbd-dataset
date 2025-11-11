@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-singularity",
+  "slug_current": "the-singularity",
+  "name": "The Singularity",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-genetic-limits",
+    "perk-forced-hesitation",
+    "perk-machine-learning"
   ]
 }

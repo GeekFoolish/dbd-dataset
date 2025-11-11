@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-twins",
+  "slug_current": "the-twins",
+  "name": "The Twins",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-hoarder",
+    "perk-opression",
+    "perk-coup-de-grace"
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-onryo",
+  "slug_current": "the-onryo",
+  "name": "The Onryo",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-scourge-hook-floods-of-rage",
+    "perk-cell-of-brine",
+    "perk-merciless-storm"
   ]
 }

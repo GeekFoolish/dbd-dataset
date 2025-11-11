@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
+  "id": "killer-the-nightmare",
+  "slug_current": "the-nightmare",
   "name": "",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-fire-up",
+    "perk-remember-me",
+    "perk-blood-warden"
   ]
 }

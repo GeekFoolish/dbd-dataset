@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-plague",
+  "slug_current": "the-plague",
+  "name": "The Plague",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-corrupt-intervention",
+    "perk-infectious-fright",
+    "perk-dark-devotion"
   ]
 }

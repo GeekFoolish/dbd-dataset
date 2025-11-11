@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-trickster",
+  "slug_current": "the-trickster",
+  "name": "The Trickster",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-starstruck",
+    "perk-hex-crowd-control",
+    "perk-no-way-out"
   ]
 }

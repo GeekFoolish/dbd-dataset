@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-knight",
+  "slug_current": "the-knight",
+  "name": "The Knight",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-nowhere-to-hide",
+    "perk-hex-face-the-darkness",
+    "perk-hubris"
   ]
 }

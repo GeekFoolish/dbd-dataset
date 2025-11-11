@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-lich",
+  "slug_current": "the-lich",
+  "name": "The Lich",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-weave-attunement",
+    "perk-languid-touch",
+    "perk-dark-arrogance"
   ]
 }

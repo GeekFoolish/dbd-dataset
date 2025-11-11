@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-pig",
+  "slug_current": "the-pig",
+  "name": "The Pig",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-surveillance",
+    "perk-hangmans-trick",
+    "perk-make-your-choice"
   ]
 }

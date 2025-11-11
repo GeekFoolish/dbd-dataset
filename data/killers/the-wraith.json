@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-wraith",
+  "slug_current": "the-wraith",
+  "name": "The Wraith",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-predator",
+    "perk-bloodhound",
+    "perk-shadowborn"
   ]
 }

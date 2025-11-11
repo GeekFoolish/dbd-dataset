@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-trapper",
+  "slug_current": "the-trapper",
+  "name": "The Trapper",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-agitation",
+    "perk-unnerving-presence",
+    "perk-brutal-strength"
   ]
 }

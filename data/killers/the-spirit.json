@@ -1,11 +1,11 @@
 {
-  "id": "killer-",
-  "slug_current": "",
-  "name": "",
+  "id": "killer-the-spirit",
+  "slug_current": "the-spirit",
+  "name": "The Spirit",
   "role": "killer",
   "unique_perk_ids": [
-    "",
-    "",
-    ""
+    "perk-spirit-fury",
+    "perk-hex-haunted-ground",
+    "perk-rancor"
   ]
 }
